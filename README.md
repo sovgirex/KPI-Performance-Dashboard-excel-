@@ -1,1 +1,1 @@
-# KPI-Performance-Dashboard-excel-
+Designed and built a KPI Performance Dashboard in Microsoft Excel to monitor budget vs actuals, monthly and quarterly revenue, project/task progress, risks, and issues. The dashboard converts raw data into clear, actionable insights to support management reporting and informed decision-making.
